@@ -6,8 +6,10 @@ I've taken a .net core project from https://auth0.com/blog/asp-dot-net-core-auth
 
 All you have to do is is to modify the connection string and
 run the following CLI Command:
+<pre>
 dotnet ef migrations add InitialCreate
 dotnet ef database update
 or in Visual Studio:
 add-migration InitialCreate
 update-database
+</pre>
