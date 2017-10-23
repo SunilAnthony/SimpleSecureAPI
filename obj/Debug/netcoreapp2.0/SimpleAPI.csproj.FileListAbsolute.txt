@@ -1,0 +1,10 @@
+C:\Users\sunil.anthony\Desktop\SimpleAPI\bin\Debug\netcoreapp2.0\SimpleAPI.deps.json
+C:\Users\sunil.anthony\Desktop\SimpleAPI\bin\Debug\netcoreapp2.0\SimpleAPI.runtimeconfig.json
+C:\Users\sunil.anthony\Desktop\SimpleAPI\bin\Debug\netcoreapp2.0\SimpleAPI.runtimeconfig.dev.json
+C:\Users\sunil.anthony\Desktop\SimpleAPI\bin\Debug\netcoreapp2.0\SimpleAPI.dll
+C:\Users\sunil.anthony\Desktop\SimpleAPI\bin\Debug\netcoreapp2.0\SimpleAPI.pdb
+C:\Users\sunil.anthony\Desktop\SimpleAPI\obj\Debug\netcoreapp2.0\SimpleAPI.csproj.CoreCompileInputs.cache
+C:\Users\sunil.anthony\Desktop\SimpleAPI\obj\Debug\netcoreapp2.0\SimpleAPI.AssemblyInfoInputs.cache
+C:\Users\sunil.anthony\Desktop\SimpleAPI\obj\Debug\netcoreapp2.0\SimpleAPI.AssemblyInfo.cs
+C:\Users\sunil.anthony\Desktop\SimpleAPI\obj\Debug\netcoreapp2.0\SimpleAPI.dll
+C:\Users\sunil.anthony\Desktop\SimpleAPI\obj\Debug\netcoreapp2.0\SimpleAPI.pdb
