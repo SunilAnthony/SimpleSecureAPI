@@ -79,6 +79,7 @@ namespace SimpleAPI
         });
         services.AddAuthorization(options =>
         {
+            //this is where you can add claims/roles to add Policy/Role to your controller methods.
             options.DefaultPolicy = new AuthorizationPolicyBuilder(JwtBearerDefaults.AuthenticationScheme).RequireAuthenticatedUser().Build();
         });
         services.AddCors(options =>
